@@ -1,0 +1,591 @@
+.mapbox {
+  background-color: #ffffff;
+  height: 561px;
+  position: relative;
+  width: 100%;
+}
+
+.mapbox .div {
+  background-color: #2c2c2c;
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 805px;
+}
+
+.mapbox .navigation-maps {
+  height: 20px !important;
+  left: 18px !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 20px !important;
+}
+
+.mapbox .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+  width: 197px;
+}
+
+.mapbox .overlap-group {
+  background-color: #ffffff;
+  height: 523px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 258px;
+}
+
+.mapbox .text-field {
+  align-items: flex-start;
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  height: 35px;
+  left: 11px;
+  position: absolute;
+  top: 195px;
+  width: 230px;
+}
+
+.mapbox .state-layer-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: var(--m-3syslightoutline);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  position: relative;
+  width: 100%;
+}
+
+.mapbox .state-layer {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  height: 35px;
+  padding: 8px 0px 8px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mapbox .content {
+  flex: 1;
+  flex-grow: 1;
+  height: 27px;
+  margin-bottom: -4px;
+  margin-top: -4px;
+  position: relative;
+}
+
+.mapbox .input-text {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 80px;
+}
+
+.mapbox .input-text-2 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.keyboard-arrow-down {
+  height: 20px;
+  left: 181px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.mapbox .text-field-2 {
+  align-items: flex-start;
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  height: 35px;
+  left: 11px;
+  position: absolute;
+  top: 115px;
+  width: 230px;
+}
+
+.mapbox .input-text-wrapper {
+  height: 24px;
+  position: relative;
+  top: 3px;
+  width: 80px;
+}
+
+.mapbox .input-text-3 {
+  color: #1d1b2080;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.mapbox .overlap {
+  background-color: #4739e4;
+  border-radius: 10px;
+  height: 38px;
+  left: 11px;
+  position: absolute;
+  top: 472px;
+  width: 230px;
+}
+
+.mapbox .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 197px;
+}
+
+.keyboard-backspace {
+  height: 15px;
+  left: 9px;
+}
+
+.mapbox .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.mapbox .text-wrapper-4 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.mapbox .text-wrapper-17 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.mapbox .p {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 95px;
+  width: 221px;
+}
+
+.mapbox .text-wrapper-5 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 175px;
+  width: 221px;
+}
+
+.mapbox .text-wrapper-6 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 161px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+ .image1 {
+  height: 30px;
+  left: 91px;
+  position: absolute;
+  top: 31px;
+  width: 100px;
+}
+.image3 {
+  height: 30px;
+  left: 91px;
+  position: absolute;
+  top: 80px;
+  width: 100px;
+}
+.image5 {
+  height: 30px;
+  left: 91px;
+  position: absolute;
+  top: 60px;
+  width: 100px;
+}
+
+.mapbox .text-field-3 {
+  align-items: flex-start;
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  height: 35px;
+  left: 11px;
+  position: absolute;
+  top: 296px;
+  width: 106px;
+}
+
+.mapbox .text-wrapper-7 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 294px;
+  width: 101px;
+}
+
+.mapbox .text-field-4 {
+  border-radius: 4px 4px 0px 0px;
+  height: 35px;
+  left: 11px;
+  position: absolute;
+  top: 352px;
+  width: 64px;
+}
+
+.mapbox .div-wrapper {
+  border: 1px solid;
+  border-color: var(--m-3syslightoutline);
+  border-radius: 4px;
+  height: 35px;
+  width: 104px;
+}
+
+.mapbox .state-layer-2 {
+  border-radius: 4px 4px 0px 0px;
+  height: 35px;
+}
+
+.mapbox .input-text-4 {
+  height: 25px;
+  left: 16px;
+  position: relative;
+  top: 5px;
+  width: 81px;
+}
+
+.mapbox .input-text-5 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.mapbox .text-wrapper-8 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 350px;
+  width: 64px;
+}
+
+.mapbox .text-field-5 {
+  border-radius: 4px 4px 0px 0px;
+  height: 35px;
+  left: 11px;
+  position: absolute;
+  top: 425px;
+  width: 64px;
+}
+
+.mapbox .text-field-6 {
+  border: 1px solid;
+  border-color: var(--m-3syslightoutline);
+  border-radius: 4px;
+  height: 35px;
+}
+
+.mapbox .state-layer-3 {
+  border-radius: 4px 4px 0px 0px;
+  height: 35px;
+  position: relative;
+  width: 64px;
+}
+
+.mapbox .input-text-6 {
+  height: 25px;
+  left: 16px;
+  position: absolute;
+  top: 5px;
+  width: 81px;
+}
+
+.mapbox .content-2 {
+  height: 27px;
+  left: 97px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.mapbox .text-wrapper-9 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 423px;
+  width: 64px;
+}
+
+.mapbox .text-field-7 {
+  border-radius: 4px 4px 0px 0px;
+  height: 35px;
+  left: 95px;
+  position: absolute;
+  top: 425px;
+  width: 64px;
+}
+
+.mapbox .state-layer-4 {
+  border-radius: 4px 4px 0px 0px;
+  height: 35px;
+  width: 64px;
+}
+
+.mapbox .text-field-8 {
+  align-items: flex-start;
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  height: 35px;
+  left: 135px;
+  position: absolute;
+  top: 296px;
+  width: 106px;
+}
+
+.mapbox .text-wrapper-10 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 135px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 294px;
+  width: 101px;
+}
+
+.mapbox .text-wrapper-11 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 275px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.mapbox .text-wrapper-12 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 406px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.mapbox .text-wrapper-13 {
+  color: #4739e4;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.arrow-forward {
+  height: 15px;
+  left: 276px;
+  position: absolute;
+  top: 240px;
+  width: 15px;
+}
+
+.mapbox .text-field-9 {
+  border-radius: 4px 4px 0px 0px;
+  height: 35px;
+  left: 135px;
+  position: absolute;
+  top: 352px;
+  width: 98px;
+}
+
+.mapbox .text-field-10 {
+  border: 1px solid;
+  border-color: var(--m-3syslightoutline);
+  border-radius: 4px;
+  height: 35px;
+  width: 105px;
+}
+
+.mapbox .state-layer-5 {
+  border-radius: 4px 4px 0px 0px;
+  height: 35px;
+  position: relative;
+}
+
+.mapbox .img {
+  height: 20px;
+  left: 61px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.mapbox .text-wrapper-14 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 135px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 337px;
+  width: 64px;
+}
+
+.text-wrapper-15 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  position: absolute;
+  top: 254px;
+  left: 10px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.text-wrapper-16 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 206px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.mapbox .basemap-image {
+  height: 523px;
+  left: 258px;
+  position: absolute;
+  top: 38px;
+  width: 547px;
+}

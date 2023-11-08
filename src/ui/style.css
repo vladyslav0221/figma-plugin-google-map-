@@ -1,0 +1,125 @@
+.main-screen {
+  background-color: #ffffff;
+  height: 561px;
+  width: 100%;
+}
+
+.main-screen .overlap-group {
+  height: 561px;
+  position: relative;
+}
+
+.main-screen .rectangle {
+  background-color: #2c2c2c;
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.main-screen .div {
+  background-color: #4739e4;
+  height: 561px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 258px;
+}
+
+.main-screen .topographic {
+  height: 561px;
+  left: 0;
+  position: absolute;
+  top: 0px;
+  width: 258px;
+}
+
+.main-screen .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 38px;
+  left: 25px;
+  position: absolute;
+  top: 367px;
+  width: 183px;
+}
+
+.main-screen .rectangle-3 {
+  background-color: #000000;
+  border-radius: 10px;
+  height: 38px;
+  left: 25px;
+  position: absolute;
+  top: 416px;
+  width: 183px;
+}
+
+.image {
+  height: 20px;
+  left: 39px;
+  position: absolute;
+  top: 9px;
+  width: 100px;
+  z-index: 100;
+}
+
+.img {
+  z-index: 100;
+  height: 20px;
+  left: 39px;
+  position: absolute;
+  top: 7px;
+  width: 100px;
+}
+
+.main-screen .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 800;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 148px;
+  width: 197px;
+}
+
+.main-screen .basemap-image {
+  height: 561px;
+  left: 258px;
+  position: absolute;
+  top: 0px;
+  width: 547px;
+}
+
+.main-screen .navigation-maps {
+  height: 50px !important;
+  left: 27px !important;
+  position: absolute !important;
+  top: 77px !important;
+  width: 50px !important;
+}
+
+.main-screen .navigation-maps-earth-pin-location-direction-2 {
+  height: 20px !important;
+  left: 18px !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 20px !important;
+}
+
+.main-screen .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+  width: 197px;
+}
