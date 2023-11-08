@@ -37,7 +37,7 @@
     "ts-loader": "^6.0.4",
     "url-loader": "^4.1.1",
     "use-debounce": "^3.0.0",
-    "webpack": "^4.39.3",
+    "webpack": "^4.47.0",
     "yarn": "^1.17.3"
   }
 }
